@@ -1,22 +1,52 @@
-# Simple_Interest_calculator_Q
-This repository is intende for the interest calculator question of coursera course. 
+# Interest Calculator
 
-Please consider the below factors while contributing
+A simple and user friendly Interest Calculator that helps users calculate simple interest and compound interest quickly and accurately.
 
-Code Style:
-Maintain a consistent code style for readability.
+---
 
-Documentation:
-Ensure well-documented code for effective collaboration.
+## Features
 
-Testing:
-Thoroughly test your changes before submitting a pull request.
+- Calculate Simple Interest
+- Calculate Compound Interest
+- Fast and lightweight
+- Beginner friendly interface
+- Responsive design
+- Easy to customize
 
-Issue Tracker:
-Check the Issue Tracker for tasks.
+---
 
-Code Review:
-All contributions undergo a code review process.
+## Formula Used
 
-Licensing:
-Contributions are licensed.
+### Simple Interest
+
+\[
+SI = \frac{P \times R \times T}{100}
+\]
+
+Where:
+
+- **P** = Principal Amount
+- **R** = Rate of Interest
+- **T** = Time Period
+
+### Compound Interest
+
+\[
+CI = P \left(1 + \frac{R}{N}\right)^{NT} - P
+\]
+
+Where:
+
+- **P** = Principal Amount
+- **R** = Annual Interest Rate
+- **N** = Number of times interest applied per time period
+- **T** = Time in years
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/interest-calculator.git
