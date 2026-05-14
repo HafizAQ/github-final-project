@@ -1,77 +1,108 @@
 # Code of Conduct
 
-## Our Pledge
+## github-final-project : Simple Interest Calculator
 
-We as members, contributors, and maintainers pledge to make participation in the Interest Calculator project a harassment free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socioeconomic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
-
-We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+This Code of Conduct helps create a safe, respectful, and welcoming environment for everyone contributing to the github-final-project repository.
 
 ---
 
-## Our Standards
+# Our Pledge
+
+We as members, contributors, and maintainers pledge to make participation in the Simple Interest Calculator project a harassment free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+
+We are committed to creating an open, inclusive, supportive, and healthy community.
+
+---
+
+# Our Standards
 
 Examples of behavior that contributes to a positive environment include:
 
-- Being respectful and considerate toward others
-- Accepting constructive feedback gracefully
-- Showing empathy toward community members
-- Using welcoming and inclusive language
-- Helping others learn and grow
-- Focusing on what is best for the community
+- Using welcoming and respectful language
+- Being considerate of different viewpoints and experiences
+- Accepting constructive feedback professionally
+- Helping other contributors learn and improve
+- Focusing on collaboration and community growth
+- Showing empathy toward other community members
 
 Examples of unacceptable behavior include:
 
-- Harassment, trolling, or insulting comments
-- Personal or political attacks
+- Harassment, discrimination, or hateful conduct
+- Trolling, insulting, or derogatory comments
 - Public or private harassment
-- Publishing others' private information without permission
-- Disruptive or inappropriate conduct
-- Any behavior that could reasonably be considered inappropriate in a professional setting
+- Sharing private information without permission
+- Personal or political attacks
+- Any conduct inappropriate in a professional environment
 
 ---
 
-## Enforcement Responsibilities
+# Enforcement Responsibilities
 
-Project maintainers are responsible for clarifying and enforcing our standards of acceptable behavior.
+Project maintainers are responsible for clarifying and enforcing the standards of acceptable behavior.
 
-Maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned with this Code of Conduct.
+Maintainers may remove, edit, or reject comments, commits, code, issues, or other contributions that violate this Code of Conduct.
 
-Maintainers may take appropriate and fair corrective action in response to any behavior they deem inappropriate, threatening, offensive, or harmful.
+Maintainers will take fair and appropriate corrective action in response to unacceptable behavior.
 
 ---
 
-## Scope
+# Scope
 
-This Code of Conduct applies within all project spaces, including but not limited to:
+This Code of Conduct applies within all project spaces related to github-final-project, including:
 
 - GitHub repositories
-- Issue trackers
 - Pull requests
-- Community discussions
-- Social media spaces associated with the project
-- Public or private communication related to the project
+- Issue trackers
+- Discussions
+- Project documentation
+- Community communication channels
+- Social media interactions related to the project
 
 It also applies when an individual is officially representing the project in public spaces.
 
 ---
 
-## Enforcement
+# Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers.
 
-All complaints will be reviewed and investigated promptly and fairly.
+All reports will be reviewed and investigated promptly and fairly.
 
-Project maintainers are obligated to respect the privacy and security of the reporter of any incident.
+Project maintainers will respect the privacy and security of the person reporting an incident.
 
-Appropriate corrective actions may include warnings, temporary bans, or permanent removal from the community depending on the severity of the violation.
+Corrective actions may include:
+
+- Warning
+- Temporary suspension
+- Permanent ban from the community
+
+depending on the severity and frequency of the violation.
 
 ---
 
-## Enforcement Guidelines and Attribution
+# Enforcement Guidelines
 
-Community impact will be considered in determining the consequences for any action that violates this Code of Conduct.
+Community impact will be considered when determining the consequences for violating this Code of Conduct.
 
-This Code of Conduct is inspired by the Contributor Covenant Code of Conduct, version 2.1.
+Possible enforcement actions include:
+
+1. Correction  
+   A private warning explaining why the behavior was inappropriate.
+
+2. Warning  
+   A formal warning with clear expectations for future behavior.
+
+3. Temporary Ban  
+   Temporary restriction from participating in the community.
+
+4. Permanent Ban  
+   Permanent removal from project spaces and community interactions.
+
+---
+
+# Attribution
+
+This Code of Conduct is adapted from the Contributor Covenant Code of Conduct, version 2.1.
 
 For more information, visit:
 
