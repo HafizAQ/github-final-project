@@ -106,4 +106,4 @@ This Code of Conduct is adapted from the Contributor Covenant Code of Conduct, v
 
 For more information, visit:
 
-https://www.contributor-covenant.org/
+https://github.com/HafizAQ/
