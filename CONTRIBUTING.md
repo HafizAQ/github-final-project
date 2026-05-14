@@ -1,76 +1,49 @@
-#Contribution guidelines
+# Contributing to Simple Interest Calculator
 
-###Welcome Contributors!
+Thank you for your interest in contributing to this project.
 
-Thank you for considering contributing to the centralized repository. This document outlines the guidelines for contributing to the development of Shipping Rates and Calculations.
+We welcome all types of contributions, including:
 
-###Code style
-
-Please follow the coding style and conventions used in the existing codebase. This helps maintain consistency across the project.
-
-###Documentation
-
-Ensure that your contributions are well-documented. Include comments in your code where necessary and provide a clear and concise description of your changes in the pull request.
-
-###Testing
-
-Before submitting a pull request, make sure your changes have been tested thoroughly. Include relevant test cases and ensure that existing tests pass.
-
-###Issue tracker
-
-Check the issue tracker for any open issues or feature requests. If you're working on something, please comment on the issue to let others know.
-
-###Code review
-
-All contributions will go through a code review process. Be open to feedback and be willing to make changes if necessary. Code reviews help maintain code quality and consistency.
-
-Thank you for your contribution!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Contributing to Interest Calculator
-
-Thank you for considering contributing to the Interest Calculator project.
-
-All contributions, bug reports, bug fixes, documentation improvements, enhancements and ideas are welcome and appreciated.
+- Bug reports
+- Bug fixes
+- Documentation improvements
+- Enhancements
+- Feature suggestions
+- New ideas
 
 ---
 
-## Ways to Contribute
+## Contribution Guidelines
 
-You can contribute in many ways, including:
+### Code Style
 
-- Reporting bugs
-- Suggesting new features
-- Improving documentation
-- Fixing issues
-- Refactoring code
-- Improving user experience
-- Sharing ideas and feedback
+Follow the existing coding style and project structure to maintain consistency across the codebase.
 
----
+### Documentation
 
-## Getting Started
+Keep documentation clear and updated. Add comments where necessary and provide meaningful descriptions in pull requests.
+
+### Testing
+
+Test your changes before submitting a pull request. Ensure that existing functionality continues to work correctly.
+
+### Bug Reports
+
+When reporting bugs, include:
+
+- A clear title and description
+- Steps to reproduce the issue
+- Expected and actual behavior
+- Screenshots or logs if applicable
+
+### Enhancements and Ideas
+
+Suggestions for new features or improvements are always welcome. Open an issue to discuss your idea before starting major changes.
+
+### Pull Requests
 
 1. Fork the repository
-2. Clone your fork locally
+2. Clone your fork
 
 ```bash
-git clone https://github.com/your-username/interest-calculator.git
+git clone https://github.com/your-username/simple-interest-calculator.git
